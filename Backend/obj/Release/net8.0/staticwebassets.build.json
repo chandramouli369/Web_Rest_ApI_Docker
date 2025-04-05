@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "01d2rJo6cBZzwAsKBjKw8+JtNT7pxsKuFiK1SLeypj0=",
+  "Source": "Web_Rest_API",
+  "BasePath": "_content/Web_Rest_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
